@@ -1,0 +1,11 @@
+services:
+  breeds:
+    dbName: "assessment"
+    collectionName: "breeds"
+    port: "8000"
+    dataFile: "/data/breeds.json"
+  pets:
+    dbName: "assessment"
+    collectionName: "pets"
+    port: "8081"
+    dataFile: "/data/pets.json"

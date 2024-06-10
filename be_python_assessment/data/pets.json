@@ -1,0 +1,29 @@
+[
+  {
+    "id": "uuid-1",
+    "name": "Cooper",
+    "breed": "Golden Retriever",
+    "petType": 0,
+    "dob": "2020-06-20",
+    "sterilized": true,
+    "user": "john.doe@example.com"
+  },
+  {
+    "id": "uuid-2",
+    "name": "Tony",
+    "breed": "Golden Retriever",
+    "petType": 1,
+    "dob": "2019-02-15",
+    "sterilized": false,
+    "user": "jane.doe@example.com"
+  },
+  {
+    "id": "uuid-3",
+    "name": "Garfield",
+    "breed": "Golden Retriever",
+    "petType": 1,
+    "dob": "2020-06-20",
+    "sterilized": false,
+    "user": "john.smith@fake.com"
+  }
+]

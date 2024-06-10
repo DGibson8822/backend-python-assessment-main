@@ -1,0 +1,632 @@
+[
+    {
+        "id": 454,
+        "name": "Abyssinian",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 456,
+        "name": "Alley Cat",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 457,
+        "name": "American Bobtail",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 458,
+        "name": "American Curl",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 459,
+        "name": "American Exotic",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 460,
+        "name": "American Long-Haired",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 461,
+        "name": "American Short-Haired",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 462,
+        "name": "American Wirehair",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 463,
+        "name": "Angora",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 464,
+        "name": "Asian",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 455,
+        "name": "Australian Mist",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 465,
+        "name": "Bahraini Dilmun Cat",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 469,
+        "name": "Balinese",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 466,
+        "name": "Bambino",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 470,
+        "name": "Bengal",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 467,
+        "name": "Bengalese",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 471,
+        "name": "Birman",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 468,
+        "name": "Bombay",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 472,
+        "name": "British Long-Haired",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 473,
+        "name": "British Short-Haired",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 474,
+        "name": "Burmese",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 475,
+        "name": "Burmilla",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 476,
+        "name": "Calico",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 477,
+        "name": "California Spangled",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 478,
+        "name": "Cameo Long-Haired",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 479,
+        "name": "Chartreux",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 480,
+        "name": "Chausie",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 486,
+        "name": "Chinchilla",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 481,
+        "name": "Colorpoint",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 482,
+        "name": "Colorpoint Long-Haired",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 483,
+        "name": "Colorpoint Short-Haired",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 487,
+        "name": "Cornish Rex",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 484,
+        "name": "Crossbreed",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 485,
+        "name": "Cymric",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 488,
+        "name": "Devon Rex",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 489,
+        "name": "Domestic Long-Haired",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 490,
+        "name": "Domestic Medium-Hair",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 491,
+        "name": "Domestic Short-Haired",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 493,
+        "name": "Dwarf Cat",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 494,
+        "name": "Egyptian Mau",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 495,
+        "name": "European Burmese",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 496,
+        "name": "European Short-Haired",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 497,
+        "name": "Exotic",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 498,
+        "name": "Exotic Long-Haired",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 492,
+        "name": "Exotic Short-Haired",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 500,
+        "name": "Feral",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 499,
+        "name": "Foreign White",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 501,
+        "name": "Havana Brown",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 502,
+        "name": "Highland Fold",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 503,
+        "name": "Himalayan",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 504,
+        "name": "Himalayan Blue Point",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 505,
+        "name": "Himalayan Flame Point",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 506,
+        "name": "Himalayan Lilac Point",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 507,
+        "name": "Himalayan Seal Point",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 508,
+        "name": "Japanese Bobtail",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 509,
+        "name": "Javanese",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 510,
+        "name": "Kashmir",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 511,
+        "name": "Kinkalow",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 512,
+        "name": "Korat",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 513,
+        "name": "Kurilian Bobtail",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 514,
+        "name": "LaPerm",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 515,
+        "name": "Lynx, Desert",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 516,
+        "name": "Lynx, Highland",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 517,
+        "name": "Maine Coon",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 518,
+        "name": "Manx",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 559,
+        "name": "Mixed Breed",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 520,
+        "name": "Mixed Cat",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 519,
+        "name": "Moggie",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 521,
+        "name": "Munchkin",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 522,
+        "name": "Nebelung",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 523,
+        "name": "Norwegian Forest",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 524,
+        "name": "Ocicat",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 525,
+        "name": "Oriental",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 526,
+        "name": "Oriental Colorpoint",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 527,
+        "name": "Oriental Long-Haired",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 528,
+        "name": "Oriental Short-Haired",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 557,
+        "name": "Other/Breed Unknown",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 529,
+        "name": "Persian",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 530,
+        "name": "Peterbald",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 531,
+        "name": "Pixie Bob",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 532,
+        "name": "Ragamuffin",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 533,
+        "name": "Ragdoll",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 534,
+        "name": "Russian Blue",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 535,
+        "name": "Savannah",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 536,
+        "name": "Scottish Fold",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 540,
+        "name": "Scottish Shorthair",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 537,
+        "name": "Selkirk Rex",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 538,
+        "name": "Serengeti",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 539,
+        "name": "Seychellois",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 541,
+        "name": "Siamese",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 542,
+        "name": "Siberian",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 543,
+        "name": "Singapura",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 544,
+        "name": "Snowshoe",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 545,
+        "name": "Sokoke",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 546,
+        "name": "Somali",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 547,
+        "name": "Sphynx",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 548,
+        "name": "Tabby",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 549,
+        "name": "Thai",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 550,
+        "name": "Tiffanie",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 551,
+        "name": "Tonkinese",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 554,
+        "name": "Toyger",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 552,
+        "name": "Turkish Angora",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 553,
+        "name": "Turkish Van",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 555,
+        "name": "Vermont Coon",
+        "mixed": false,
+        "petType": 1
+    },
+    {
+        "id": 556,
+        "name": "York Chocolate",
+        "mixed": false,
+        "petType": 1
+    }
+]
