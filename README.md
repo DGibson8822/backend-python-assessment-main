@@ -1,3 +1,11 @@
+# Regarding My Proposed Changes
+
+In addition to implementing the required API functionality specified for this project, I've taken the liberty of making best practices and code quality improvements as well. I go into detail in the code comments in the relevant sections, but examples that come to mind include:
+
+- Using breed ID in the url parameter rather than breed name for the route `@router.get("/dogs/{id}")`. Using breed name effectively would require a standard for what characters are allowed and regular expression for url encoding of spaces and special characters, which seems less scalable and future-proof given the limited information. Breed ID is a primary key in the database so uniqueness is guaranteed and it only inlcudes alphanumeric characters.
+- Instatiating the MockDB object outside of the middleware function where it originally resided, rather than within. Before this change, the database was re-initialized upon each request. Now it is only intialized when the service first starts, and any changes to the data persists.
+- The breeds and pets APIs each had their own service launcher file. The logic in both was very similar, so I combined the them into a single file that uses the --servce argument passed from the terminal to determine which API service to start. This makes the code more DRY, though I can also see an argument for keeping things separate in the interest of "separation of concerns", depending on how these services would be hosted in prod.
+
 # Assessment
 
 Welcome to Wagmo and the backend software engineer tech assessment. The purpose of this exercise is
@@ -27,8 +35,8 @@ sure to test edge cases, either by using a tool like Postman or creating additio
 Debug this endpoint is working as expected and fix/redesign any section of the code you see fit.
 
 The purpose of this part of the assessment is to test your ability to find and fix bugs in code that
-has already been written. When testing the breeds service there is one critical bug that will cause using 
-this service for validation to fail. The validation use case to call the breeds service to return a single breed. 
+has already been written. When testing the breeds service there is one critical bug that will cause using
+this service for validation to fail. The validation use case to call the breeds service to return a single breed.
 If a breed does not exist a 404 is returned.
 
 The endpoint will handle the following calls:
